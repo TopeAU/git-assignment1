@@ -3,7 +3,7 @@ name: New Website
 on:
   push:
     branches:
-    - main
+    - nil2
 
 jobs:
   deploy:
